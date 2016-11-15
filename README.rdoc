@@ -1,7 +1,6 @@
 == ALSA PCM INFO
 
-Code from http://www.linuxjournal.com/node/6735/print
-it's prints ALSA PCM information can be compiled on Raspberry Pi 3
+Code from http://www.linuxjournal.com/node/6735/print it's prints ALSA PCM information can be compiled on Raspberry Pi 3
 
 
 == Getting Started
