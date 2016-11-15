@@ -7,15 +7,13 @@ Code from http://www.linuxjournal.com/node/6735/print it's prints ALSA PCM infor
 
 1. clone code to you RPI3:
        $ git clone https://github.com/alexsalnikov/alsa-display-pcm.git
-
 2. navigate to :
        $ cd alsa-display-pcm
-
 3. Compile code with make:
        $ make
-
 4. Rebuild code:
        $ make rebuild
-
 5. Clean all executables:
        $ make clean
+6. Run Compiled console application:
+       $ ./display-pcm
